@@ -13,4 +13,4 @@ var getUserRepos = function(user) {
    
   getUserRepos('corycalaway');
 
-  //6.2.2
+  //
